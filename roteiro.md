@@ -35,3 +35,27 @@ Resultados Esperados:
 
 O sistema valida os campos obrigatórios em branco.
 O sistema exibe mensagens de erro indicando que os campos obrigatórios devem ser preenchidos.
+
+
+---------------------------------------------------------------
+
+
+Funcionalidade: Login no site Adopet
+
+Cenário: Login no sistema com sucesso
+
+Passos:
+
+O usuário acessa a página de login.
+O usuário insere seu email "ana@email.com" e senha "Senha123" nos campos correspondentes.
+O usuário clica no botão "Entrar".
+
+Resultados Esperados:
+
+O sistema autentica as credenciais fornecidas.
+O sistema redireciona o usuário para a página "/home".
+
+
+---------------------------------------------------------------
+
+
